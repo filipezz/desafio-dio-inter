@@ -1,5 +1,5 @@
-# desafio-dio-inter
+# Desafio-dio-inter
 
-## repositório de desafio do bootcamp da Inter.
+## Repositório de desafio do bootcamp da Inter.
 
-Testando conhecimentos de Git/GitHub manipulando repositórios e versionando usando Git/GitHub
+Testando conhecimentos de Git/GitHub manipulando repositórios e versionando usando Git/GitHub.
